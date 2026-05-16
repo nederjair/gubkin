@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus_Prerequisites_Diagnostic.md",
+                "file": "Series_de_terminos_positivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus_Prerequisites_Diagnostic"
+              "title": "Series_de_terminos_positivos"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "66d4b64387a4043f",
   "lastOpenFiles": [
+    "Series_de_terminos_positivos.pdf",
+    "Series_de_signos_alternados.md",
+    "Series_de_signos_alternados.pdf",
+    "Calculus_Prerequisites_Diagnostic.md",
     "Calculus_Prerequisites_Diagnostic.pdf",
     "lista_de_estudiantes.md",
     "test.md",
-    "test.pdf",
-    "Calculus_Prerequisites_Diagnostic.md"
+    "test.pdf"
   ]
 }
